@@ -80,7 +80,7 @@ Clone the repo:
 bash
 Copy
 Edit
-git clone https://github.com/MIMIIKK/nijimarket.git
+git clone [https://github.com/MIMIIKK/NijiMarket.git]
 cd nijimarket
 Backend setup:
 
