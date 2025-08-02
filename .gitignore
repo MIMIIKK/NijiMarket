@@ -1,0 +1,6 @@
+# Ignore virtual environment
+env/
+
+# Ignore environment variable files
+backend/.env
+.env
