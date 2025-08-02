@@ -80,7 +80,7 @@ Clone the repo:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/nijimarket.git
+git clone https://github.com/MIMIIKK/nijimarket.git
 cd nijimarket
 Backend setup:
 
@@ -162,7 +162,7 @@ License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Contact
-Maintainer: your.email@example.com
-GitHub: https://github.com/yourusername
+Maintainer: injan9949@gmail.com
+GitHub: https://github.com/MIMIIKK
 
 Thank you for supporting NijiMarket — empowering farmers and communities through technology! 🌱
